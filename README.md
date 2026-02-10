@@ -24,7 +24,16 @@
 - [Articles](#articles)
 - [Books](#books)
 - [Research Papers](#research-papers)
+- [Guides](#guides)
 - [Related Awesome Lists](#related-awesome-lists)
+
+## Guides
+
+_Step-by-step implementation guides organized by automation maturity level._
+
+- [Tier 1: Policy-Based Automation](guides/tier-1-policy-based-automation.md) - Set-and-forget workflows using Renovate, Mergify, semantic-release, and branch protection — no AI required.
+- [Tier 2: AI-Assisted Review and Triage](guides/tier-2-ai-assisted-review.md) - Add AI code review, PR classification, and security triage while keeping humans in the loop.
+- [Tier 3: Autonomous Agents](guides/tier-3-autonomous-agents.md) - Issue-to-PR agents, self-healing CI, and custom agent orchestration with guardrails and safety nets.
 
 ## AI Coding Agents
 
